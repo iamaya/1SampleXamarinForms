@@ -1,0 +1,9 @@
+C:\Users\imaya_000\SkyDrive\Documents\Work\Xamarin\Source Code\App3\App3\App3\bin\Debug\App3.dll
+C:\Users\imaya_000\SkyDrive\Documents\Work\Xamarin\Source Code\App3\App3\App3\bin\Debug\App3.pdb
+C:\Users\imaya_000\SkyDrive\Documents\Work\Xamarin\Source Code\App3\App3\App3\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\imaya_000\SkyDrive\Documents\Work\Xamarin\Source Code\App3\App3\App3\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\imaya_000\SkyDrive\Documents\Work\Xamarin\Source Code\App3\App3\App3\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\imaya_000\SkyDrive\Documents\Work\Xamarin\Source Code\App3\App3\App3\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\imaya_000\SkyDrive\Documents\Work\Xamarin\Source Code\App3\App3\App3\obj\Debug\App3.csprojResolveAssemblyReference.cache
+C:\Users\imaya_000\SkyDrive\Documents\Work\Xamarin\Source Code\App3\App3\App3\obj\Debug\App3.dll
+C:\Users\imaya_000\SkyDrive\Documents\Work\Xamarin\Source Code\App3\App3\App3\obj\Debug\App3.pdb
